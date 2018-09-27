@@ -1,3 +1,5 @@
+import java.math.BigDecimal;
+
 /*********************
 * Rodrigo CavanhaMan *
 *        IFTM        *
